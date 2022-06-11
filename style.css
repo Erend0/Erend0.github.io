@@ -1,45 +1,8 @@
-.topbar{
+.image{
     display: grid;
-    align-content: center;
-    grid-template-columns: 20% 20% 20% 20% 20%;
-    grid-column-gap: 50px;
-    font-family: Calibri;
-    font-size:15px;
-    padding:5px;
-
-  
-    color:black;
+    grid-template-rows: 50% 50%
 }
 
-
-
-body{
-    padding-right: 10px
-    font-size:12px;
-    background-color: ghostwhite
-}
-
-.showcase{
-    
-    display:grid;
-    grid-template-columns: ;
-    grid-template-rows: 
-}
-
-a{
-    
-    text-decoration: none;
-    color:black;
-    
-}
-
-.contents{
-    display: grid;
-    background-color: whitesmoke;
-    grid-template-columns: 40% 60%;
-    grid-template-rows: auto;
-    border-bottom-style:solid;
-    border-radius: 6px;
-    
-    
+copyme{
+    &#128204
 }
