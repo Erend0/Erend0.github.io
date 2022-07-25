@@ -1,20 +1,28 @@
-body{   
-   background-color: 
-#1a181c
-
+body{
+    background-color: #040102
 }
-
-.custombutton{
-    color:  #A239CA;
-    
-}
-
 a{
-    text-decoration: none;
-    color: white
+      text-decoration: none;
 }
 
-.alertlink{
-    text-decoration: none;
-    color: black
+nav{  
+    font-family:Roboto;
 }
+
+.itembar{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    grid-column-gap: 5%;
+    margin-left: 15%;
+    margin-right: 15%;
+
+    color:white;
+}
+
+
+  
+
+
+
+
+
